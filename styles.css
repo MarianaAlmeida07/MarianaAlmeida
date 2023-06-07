@@ -1,4 +1,11 @@
 :root {
-    --cor-de-fundo:black;
+    --cor-de-fundo: #EBECEE;
+}
 
+body {
+    background-color: rgb(206, 152, 192)
+}
+
+h1{
+    background-color: white;
 }
